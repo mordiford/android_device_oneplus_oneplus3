@@ -424,4 +424,7 @@
         <item>"/system/framework/arm64/boot-core-libart.oat"</item>
    </string-array>
 
+    <!-- RR Hardwarekey Pref -->
+    <bool name="config_hwKeysPref">true</bool>
+
 </resources>
